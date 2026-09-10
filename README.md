@@ -1,10 +1,10 @@
 <h1 align="center">Kirill Shafranov</h1>
-<h3 align="center">Full-Stack Engineer · Vue / Node.js / Nest.js</h3>
+<h3 align="center">Full-Stack Engineer · Elixir / Vue / Node.js / NestJS</h3>
 
 <div align="justify">
     Full-stack engineer specializing in reliable, well-structured systems and data-driven architectures.
-Working with, Node.js and Postgres to build scalable, observable and maintainable services.
-Exploring distributed systems, high-load patterns and system design.
+Working with Elixir, Node.js, and Postgres to build scalable, observable, and maintainable services.
+Exploring distributed systems, high-load patterns, functional programming, and system design.
 </div>
 
 <h2 align="center">Connect with Me</h2>
@@ -30,9 +30,11 @@ Exploring distributed systems, high-load patterns and system design.
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
+  [![Phoenix Framework](https://img.shields.io/badge/phoenix_liveview-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=white)](https://www.phoenixframework.org/)
 
 ### Backend
 
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
@@ -46,11 +48,11 @@ Exploring distributed systems, high-load patterns and system design.
 
 <div align="justify">
   <p>
-    I specialize in building reliable backend systems with clear architecture and strong data foundations.
-Most of my experience is in commercial activity, working with Node.js and Postgres to design services that scale and stay maintainable under real load.
+    I specialize in building reliable systems with clear architecture and strong data foundations.
+Most of my experience is in web development, working with Elixir, Node.js, and Postgres to design services that scale and stay maintainable under real load.
   </p>
   <p>
-    I’m interested in distributed systems, high-load patterns, database internals and functional programming.
+    I’m interested in distributed systems, high-load patterns, database internals, and functional programming.
   </p>
 </div>
 
